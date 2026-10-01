@@ -1,0 +1,10 @@
+{
+    "name": "gefina",
+    "description": "Sistemas de gestão de contas a receber ",
+    "version": "0.0.0",
+    "author": "Joyce Oliveira",
+    "type": "module",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
